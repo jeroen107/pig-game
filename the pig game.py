@@ -64,3 +64,5 @@ while done != 'done':
                 else:
                     print('press r or p')
 
+print('test')
+
